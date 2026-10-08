@@ -23,3 +23,10 @@ Originated in UNSW COMP9331. The report explicitly acknowledges using parts of t
 ## Verification status
 
 Python syntax was checked. An end-to-end client/server session has not been rerun.
+
+
+## Historical reports
+
+The reports preserve saved coursework observations and team context. They are not fresh benchmark or runtime verification.
+
+- [Historical design report](docs/historical-design-report.md)
